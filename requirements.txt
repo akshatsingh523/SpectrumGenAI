@@ -1,0 +1,15 @@
+streamlit
+dnspython
+pymongo
+PyMongo
+python-dotenv
+PyPDF2
+gtts
+SpeechRecognition
+youtube-transcript-api
+beautifulsoup4
+requests
+Pillow
+faiss-cpu
+langchain
+langchain-google-genai
